@@ -20,4 +20,3 @@ jobs:
 
       - name: go test
         run: go test ./... -cover 
-
