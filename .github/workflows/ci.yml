@@ -20,6 +20,3 @@ jobs:
 
       - name: go test
         run: go test ./... -cover 
-
-      - name: Force Success
-        run: (exit 0)
